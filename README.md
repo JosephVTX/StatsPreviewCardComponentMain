@@ -29,8 +29,8 @@ Screenshot in --> https://imgur.com/a/G8HiGkk
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/StatsPreviewCardComponentMain](https://github.com/JoshMooner/StatsPreviewCardComponentMain)
-- Live Site URL: [https://joshmooner.github.io/StatsPreviewCardComponentMain/](https://joshmooner.github.io/StatsPreviewCardComponentMain/)
+- Solution URL: [https://github.com/JosephVTX/StatsPreviewCardComponentMain/](https://github.com/JosephVTX/StatsPreviewCardComponentMain/)
+- Live Site URL: [https://josephvtx.github.io/StatsPreviewCardComponentMain](https://josephvtx.github.io/StatsPreviewCardComponentMain)
 
 ## My process
 
@@ -70,8 +70,3 @@ I want to focus on future projects in how to manage filter properties, because t
 ### Useful resources
 
 - [w3schools](https://www.w3schools.com) - In general this website helped me because bring the documentation for code in a correctly way. I really liked and I used a lot in the develop of this challenge.
-
-## Author
-
-- Website - [JoshMooner](https://www.github.com/JoshMooner)
-- Frontend Mentor - [@JoshMooner](https://www.frontendmentor.io/profile/JoshMooner)
